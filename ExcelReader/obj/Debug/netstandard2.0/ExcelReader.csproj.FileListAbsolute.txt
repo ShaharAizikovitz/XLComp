@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\bin\Debug\netstandard2.0\ExcelReader.deps.json
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\bin\Debug\netstandard2.0\ExcelReader.dll
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\bin\Debug\netstandard2.0\ExcelReader.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\bin\Debug\netstandard2.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.AssemblyInfo.cs
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.dll
+C:\Users\User\source\repos\WindowsFormsApp1\ExcelReader\obj\Debug\netstandard2.0\ExcelReader.pdb
