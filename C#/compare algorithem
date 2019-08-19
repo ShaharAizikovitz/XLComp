@@ -1,1 +1,13 @@
+List<Test> Tests_old = _vpr_old;
+List<Test> Tests_new = _vpr_new;
 
+foreach(Test _t in Tests_old)
+{
+  if( _t is in Tests_new){}
+  
+  //_t is an added test to the new version
+  else
+  {
+    
+  }
+}
